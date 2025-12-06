@@ -1,3 +1,5 @@
+## Note: Next update will change ui to streamlit
+
 ## 🔧 Backend Installation (FastAPI)
 
 ### 1️⃣ Create venv (optional)
